@@ -1,2 +1,3 @@
 introduction.tex
 methods_part1.tex
+figures/hilbert_zw3_w19_va_ERAInterim_500hPa_030day-runmean_native-55S_1986-05-22_2006-07-29/hilbert_zw3_w19_va_ERAInterim_500hPa_030day-runmean_native-55S_1986-05-22_2006-07-29.png
