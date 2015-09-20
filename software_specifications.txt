@@ -1,0 +1,15 @@
+Operating system: Ubuntu. 12.04. April 2012. Canonical Ltd. http://www.ubuntu.com/
+
+Software packages:
+- netCDF Operators. 4.0.8. April 2011. netCDF Operators Project. http://sourceforge.net/projects/nco/
+- Climate Data Operators. 1.5.3. October 2011. Max Plank Institut fur Meteorologie. Hamburg, Germany. https://code.zmaw.de/projects/cdo
+- Python. 2.7.10. May 2015. Python Software Foundation. https://www.python.org/
+- Anaconda. 2.0.1. July 2014. Continuum Analytics. Austin, Texas. http://docs.continuum.io/anaconda/
+- NumPy. 1.9.2. March 2015. NumPy Developers. http://www.numpy.org/
+- SciPy. 0.14.0. May 2014. SciPy Developers. http://www.scipy.org/scipylib/index.html
+- xray. 0.5.1. June 2015. xray Developers. http://xray.readthedocs.org/en/stable/
+- windspharm. 1.3.1. June 2014. Andrew Dawson. http://ajdawson.github.io/windspharm/
+- eofs. 0.5.0. June 2014. Andrew Dawson. http://ajdawson.github.io/eofs/ 
+- Matplotlib. 1.4.0. August 2014. Matplotlib Development Team. http://matplotlib.org/
+- Iris. 1.8.0. April 2015. Met Office. Exeter, England. http://scitools.org.uk/
+- Cartopy. 0.10.0. January 2014. Met Office. Exeter, England. http://scitools.org.uk/
