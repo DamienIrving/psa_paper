@@ -6,6 +6,8 @@ All anomaly data discussed in the paper represent the daily anomaly. For instanc
 \subsubsection{Composites}
 Annual and seasonal mean composites are presented throughout the paper for key variables. To produce these composites, a mean spatial map was calculated across all data times that (a) fell within the season of interest, and (b) exceeded a specified threshold value. To determine the statistical significance of the composite mean at each grid point, two-sided, independent sample t-tests were used to calculate the probability ($p$) that the composite mean value was not significantly different from the climatological (i.e. all data times) mean for that season.
 
+\subsubsection{EOF analysis}
+
 \subsubsection{Periodograms}
 The characteristics of data series that have been Fourier-transformed are often summarized using a plot known as a periodogram or Fourier line spectrum \citep{Wilks2011}. These plots are also referred to as a power or density spectrum, and most commonly display the squared amplitudes ($C_k^2$) of the Fourier transform coefficients as a function of their corresponding frequencies ($\omega_k$). As an alternative to the squared amplitude, we have chosen to rescale the vertical axis and instead use the $R^2$ statistic commonly computed in regression analysis. The $R^2$ for the $k$th harmonic is,
 
@@ -18,4 +20,3 @@ R_k^2 = \frac{(n/2)C_k^2}{(n-1)s_y^2}
 \subsubsection{Climate indices}
 Two of the major modes of SH climate variability are the Southern Annular Mode (SAM) and El Ni\~{n}o Southern Oscillation (ENSO). In order to assess their relationship with the PWI, the Antarctic Oscillation Index \citep[AOI;][]{Gong1999} and Ni\~{n}o 3.4 index \citep{Trenberth2001} were calculated from 30-day running mean data (i.e. the same timescale that was used to calculate the PWI). The former represents the normalized difference of zonal mean sea level pressure between 40$^{\circ}$S and 65$^{\circ}$S, while the latter is the sea surface temperature anomaly for the region in the central tropical Pacific Ocean bounded by 5$^{\circ}$S-5$^{\circ}$N and 190-240$^{\circ}$E. 
 
-\subsubsection{EOF analysis}
