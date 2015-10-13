@@ -1,10 +1,10 @@
 \section{Results}
 
-In applying the identification algorithm to the ERA-Interim dataset, the decision was made to focus on monthly timescale data at 500 hPa. The latter represents a mid-to-upper tropospheric level that is below the tropopause in all seasons and at all latitudes of interest. Given the equivalent barotropic nature of the PSA pattern (i.e. the wave amplitude increases with height but phase lines tend to be vertical) the results do not differ substantially for other levels of the troposphere. Monthly mean data were used for consistency with most previous studies and were obtained by applying a 30-day running mean to the daily (i.e. diurnally averaged) ERA-Interim data, in order to maximize the available monthly timescale information. As noted by previous authors \citep[e.g.][]{Kidson1988}, potentially useful information may be lost if only twelve (i.e. calendar month) samples are taken every year. Dates were labeled as the 16th day of the 30-day period (e.g. the labeled date 1979-01-16 spans the period 1979-01-01 to 1979-01-30).
-
-To explore the implications of this timescale selection, the Fourier transform used in the identification process was applied to the 500 hPa rotated meridional wind anomaly data (FIGURE 4). That analysis revealed wavenumber 7 as the most dominant frequency for daily timescale data in the PSA-sector, with wavenumber 6 dominating the frequency spectrum for a 10-90 day running window. Given that the PSA pattern is itself characterized by wavenumber 5-6 variability in the PSA-sector, this result suggests that (a) the PSA pattern is a dominant regional feature on weekly through to seasonal timescales, and (b) by extension the climatological results obtained from 30-day running mean data are also relevant at those timescales.
-
 \subsection{General PSA-like variability}
+
+Before attempting to isolate the PSA pattern via the phase information obtained from the identification algorithm, it is worth considering the characteristics of all PSA-like variability identified in the PSA-sector. In total, 55\% (7163 of 13120) of data times were identified by the algorithm (i.e. wavenumber 5 and 6 were among the top three ranked frequencies), which is consistent with the fact that wavenumber 6 dominates the Fourier spectrum at the monthly timescale (FIGURE 4). Grouping consecutive identifications into events revealed a median event duration of X data times, with a distribution depicted in FIGURE 5. Events of shorter duration tended to occur either side of longer events, as the coordinated wave pattern associated with the longer event began to form/decay.
+
+The lifecycle of events lasting longer than 10 data times is depicted in FIGURE 6. The amplitude of most events tended to peak
 
 Duration, propagation, phase distribution (with spatial plots for the local minima and maxima).
 
