@@ -4,3 +4,4 @@ computation.tex
 methods_id.tex
 methods_analysis.tex
 results.tex
+discussion.tex
