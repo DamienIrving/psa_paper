@@ -6,3 +6,4 @@ methods_analysis.tex
 results_general.tex
 results_psa.tex
 discussion.tex
+figures/eof-sf_ERAInterim_500hPa_monthly_native-sh-zonal-anom/eof-sf_ERAInterim_500hPa_monthly_native-sh-zonal-anom.png
