@@ -9,3 +9,4 @@ discussion.tex
 figures/eof-sf_ERAInterim_500hPa_monthly_native-sh-zonal-anom/eof-sf_ERAInterim_500hPa_monthly_native-sh-zonal-anom.png
 figures/rotation_example_2006-05-18/rotation_example_2006-05-18.png
 figures/psa_check_2006-05-18_10S-10N_hilbert/psa_check_2006-05-18_10S-10N_hilbert.png
+figures/vrot-r2spectrum_ERAInterim_500hPa_daily-anom-wrt-all_native-np20N260E/vrot-r2spectrum_ERAInterim_500hPa_daily-anom-wrt-all_native-np20N260E.png
