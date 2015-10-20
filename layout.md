@@ -7,4 +7,3 @@ results_general.tex
 results_psa.tex
 discussion.tex
 figures/eof-sf_ERAInterim_500hPa_monthly_native-sh-zonal-anom/eof-sf_ERAInterim_500hPa_monthly_native-sh-zonal-anom.png
-figures/rotation_example_2006-05-18/rotation_example_2006-05-18.png
