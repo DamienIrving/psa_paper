@@ -12,3 +12,4 @@ figures/rotation_example_2006-05-18/rotation_example_2006-05-18.png
 figures/psa_check_2006-05-18_10S-10N_hilbert/psa_check_2006-05-18_10S-10N_hilbert.png
 figures/vrot-r2spectrum_ERAInterim_500hPa_daily-anom-wrt-all_native-np20N260E/vrot-r2spectrum_ERAInterim_500hPa_daily-anom-wrt-all_native-np20N260E.png
 figures/psa-duration_ERAInterim_500hPa-lat10S10Nmean-lon115E235Ezeropad_030day-runmean-anom-wrt-all_native-np20N260E/psa-event-summary_wave6-duration-gt10_ERAInterim_500hPa-lat10S10Nmean-lon115E235Ezeropad_030day-runmean-anom-wrt-all_native-np20N260E.png
+figures/psa-phase-histogram_wave6-duration-gt10-annual_ERAInterim_500hPa-lat10S10Nmean-lon115E235Ezeropad_030day-runmean-anom-wrt-all_native-np20N260E_epochs/psa-phase-histogram_wave6-duration-gt10-annual_ERAInterim_500hPa-lat10S10Nmean-lon115E235Ezeropad_030day-runmean-anom-wrt-all_native-np20N260E_epochs.png
