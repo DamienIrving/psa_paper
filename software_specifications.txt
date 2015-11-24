@@ -1,7 +1,7 @@
 Operating system: Ubuntu. 12.04. April 2012. Canonical Ltd. http://www.ubuntu.com/
 
 Software packages:
-- netCDF Operators. 4.0.8. April 2011. netCDF Operators Project. http://sourceforge.net/projects/nco/
+- netCDF Operators. 4.4.6. September 2014. netCDF Operators Project. http://sourceforge.net/projects/nco/
 - Climate Data Operators. 1.5.3. October 2011. Max Plank Institut fur Meteorologie. Hamburg, Germany. https://code.zmaw.de/projects/cdo
 - Python. 2.7.10. May 2015. Python Software Foundation. https://www.python.org/
 - Anaconda. 2.0.1. July 2014. Continuum Analytics. Austin, Texas. http://docs.continuum.io/anaconda/
