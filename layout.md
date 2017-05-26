@@ -1,5 +1,4 @@
 abstract.tex
-citation.tex
 introduction.tex
 data.tex
 computation.tex
